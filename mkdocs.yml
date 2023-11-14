@@ -1,6 +1,6 @@
 # [Info]
 site_name: 【iMessage group sending】  ✈️@IMEAX # 左上角标题
-site_url: https://imessageee.github.io/
+site_url: https://tommylei821.github.io/
 site_author: ✈️@IMEAX
 site_description: ✈️@IMEAX
 
@@ -160,10 +160,10 @@ copyright: iMessage CC-BY-4.0 # 左下角的版权声明
 extra:
   social: # icons
     - icon: fontawesome/brands/telegram
-      link: https://imessageee.github.io/pic/IMEAXXX.png
+      link: https://tommylei821.github.io/pic/IMEAXXX.png
       name: Telegram | ✈️@IMEAX # 鼠标悬浮提示
     - icon: fontawesome/brands/github
-      link: https://imessageee.github.io/
+      link: https://tommylei821.github.io/
       name: GitHub | ✈️@IMEAX 
 
 # [Extensions]
